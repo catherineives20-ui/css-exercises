@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+
+.classy {
+    background-color: salmon;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+}
+
+.classy.bigger {
+    font-size: 24px;
+}
+
+#two {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#four {
+    background-color: rgb(127, 255, 100);
+    font-size: 24px;
+    font-weight: bold;
+}
